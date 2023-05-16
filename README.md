@@ -120,5 +120,3 @@ For each key, a path or a list of paths (xpath) is/are required to be provided i
 
 *Notice*, full path isn't required for **TABLE_C** and the *GFC* (greatest common factor) between the child **TABLE_C** and the parent **TABLE_B** is only required in the parent table. Since **TABLE_C** is a child of **TABLE_B**, it falls under the same path, but **TABLE_C** breaks away at "table,images" and that's why it is the only specified path. In other words, since **TABLE_C** is a child of **TABLE_B**, all *TABLE_B* rules carry over to *TABLE_C*. 
 
-----------------------------------------
-Author: Hamdan, Muhammad (@mhamdan91 - ©)
